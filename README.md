@@ -12,5 +12,9 @@ Make sure to create a pull request if you have any suggestions on new features. 
 
 Hope you once again enjoy this.
 
+Here is also the free model you can get: https://www.roblox.com/library/6750359218/Message-Gui-Model
+
+Instructions where to ungroup them is told on the model. To ungroup, drag it into the service and then either do CTRL + U/CMD + U or right click the model and then click "Ungroup".
+
 
 /August (Ducksneedhelp)
